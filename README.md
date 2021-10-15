@@ -30,7 +30,9 @@ I circled—or rather… squared—back to my lockdown mood/medium when I transl
 
 
 Margento
+
 Două ziduri și o oglindă
+
 - Despre poetica proiectului - 
 
 Lumea pandemiei a fost una bidimensională. Chiar și cutiuțele în care locuiam sau lucram au fost aplatizate de izolare. Singurul dincolo a fost (este?) digitalul - interfețe, algoritmi de web - funcționând, de fapt, ca o oglindă. Oglinda vrajbei noastre care, din când în când, părea să funcționeze ca o oglindă bidirecțională (și ecran bilateral) a controlului și supravegherii omniprezente. Și totuși, ce altceva puteam vedea acolo în afară de reflecția celor doi pereți care ne înconjoară, transformând astfel oglinda, la rândul ei, într-un al treilea zid hipnotizant? 
