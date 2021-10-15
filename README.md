@@ -1,5 +1,5 @@
 # TwoWalls&aMirror
-Transmedia poem commissioned by the New York Romanian Cultural Institute
+Transmedia poem commissioned by the New York Romanian Cultural Institute (ICR NY)
 
 Margento 
 
