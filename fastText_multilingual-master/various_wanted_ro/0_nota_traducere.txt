@@ -1,0 +1,41 @@
+Hibridizare prin modelare de subiecte
+— Nota traducerii computaționale Margento a poemului Thanks (to Ovid) de Steve Rushton; 
+și o notă despre forma poetică —
+
+Această contribuție este generată de o poetică a fluenței, uneori fluidă, centrată pe fluctuație, contaminare și procesualitate. 
+Modelarea de subiecte s-a impus ca metoda computațională cea mai adecvată pentru captarea diverselor curente subterane 
+din acest poem, mai ales pentru “traducerea” sa atât în engleză cât și în română. 
+Fiecare subiect furnizează un bazin bogat de cuvinte, alături de probabilitatea apariției lor în anumite contexte, 
+în timp ce fluxul poemului face ca termenii din cadrul aceluiași subiect să graviteze unul spre altul — și să se contamineze reciproc.
+  
+	Un poem al exilului și dislocării în atâtea sensuri cere o dislocare a lui însuși în traducere, 
+	și de aceea, pentru primele două secțiuni, am dublat cantitatea de text cu un fragment dintr-o versiune în curs de apariție, revăzută și adăugită, a volumului Athanor and Other Pohems de Gellu Naum (trad. Margento și Martin Woodside, Calypso Editions, 2013). 
+	(tot de 7000 de cuvinte, ca și originalul)
+	Listele de modelări de subiecte rezultate sunt astfel niște versiuni hibridizate ale secțiunii I și II din poemul lui Rushton 
+	ce asigură posibilitatea limbajului său să se reverse și să fie contaminat de cel al lui Naum (în traducere englezească). 
+	Pe măsură ce poemul avansează, înlocuirile potențiale, sau traseele alternative — redactate în italice ca sateliți ce se rotesc în jurul cuvintelor respective — / sunt tot mai sus ca probabilitate și mai apropiate în output-ul programului de acele cuvinte. 
+	Am reușit să fac asta pentru trei cuvinte pe strofă, 
+	dar postez public programul pe GitHub (https://github.com/Margento/PoeTopMode) pentru toți cei care / ar vrea să continue operațiunea sau ar vrea să o aplice și la alte texte sau corpus-uri.
+	
+	Pentru a treia secțiune a poemului, “III. First Discussion”, tradusă ca “III. Sono-între(G)rupere”, am ales să hibridizez “originalul” cu articolul scris de Christopher Funkhouser 
+	pentru numărul special cu tema “literature and/as the digital” al jurnalului Interférences litteraires / literaire interferenties (http://interferenceslitteraires.be), 
+	în curs de apariție, și, de asemenea, cu poemele aceluiași incluse în antologia Noi poeți “americani” poeți străini (antologatori Margento, Fractalia, 2018) în engleză și în traducere românească. 
+	Am făcut această alegere pentru câteva motive. Unu, amândoi / autorii sunt poeți cu preocupări și activitate susținute în domeniul sunetului, 
+	în contexte inter-arte și inter-media, lucru evidențiat în scrierile lor introduse în algoritmul pentru această secțiune. 
+	Doi, atât “III. First Discussion” cât și “Applying Poetic Media in the Digital Humanities” au un ton confesiv 
+	— pe alocuri chiar autobiografic — vorbind despre preocupările deja amintite și despre diversele ipostaze (sau chiar identități) ale autorilor. 
+	Și trei, eseul și poemele lui Funkhouser împreună oglindesc într-un anumit sens dualismul (jucat ca schizo, sau mai degrabă, quadro... f®enia [ quadrofenia ] ) “originalului” 
+	implicând, pe de o parte, dimensiunea critic-istorică (și traductologică), și, pe de alta, creativitatea poetică și artistică.
+	A patra secțiune, “IV. Second Discussion,” odată ce mi-am dat seama că nu erau foarte multe scriitoare sau artiste reprezentate în proiect până în acel moment, 
+	a fost redată ca “IV. Zaiafet, feminizare”. Hibridizarea “originalului” a implicat aici / un număr mai mare de texte (poeme, eseuri, articole academice, versuri de cântece) / având drept (co)autoare sau traducătoare, sau fiind inițiate (în sensul de inspirând variațiuni, 
+	“scrieri-prin”, ori fiind prelucrate de diverse procesoare textuale), postate în rețele sociale media și / sau performate de femei. 
+	Spectrul aici se întinde de la un eseu al Johannei Drucker (în curs de apariție în același jurnal citat mai sus) și poemul ei “EcoLaLia: selecție ne-naturală — condusă procedural” la poemele lui Lyn Hejinian, Alice Notley, Harryette Mullen, Rita Dove, Maria Mencia, Jennifer Scappettone, Page Hill Starzinger și Rachel Galvin 
+	incluse în Noi poeți “americani” poeți străini (iarăși, în engleză și în traducere românească) la un articol academic al Ralucăi Tănăsescu despre traducerea versurilor rock la versurile scrise de Joni Mitchell pentru un cântec propriu / la o postare virală pe Facebook a ghitaristei Gretchen Menn la alte și alte poeme de Sharon Olds și Joanne Dominique Dwyer... 
+	(vezi lista de autori și titluri din secțiunea “Note bio-biblio”; fișierele sau link-urile au fost încărcate și pe GitHub). 
+	În consecință, “ originalul ” e, pe rând, mixat cu (sau mai degrabă inundat), apoi efasat de, și în final îngropat concret în extrase din textele tuturor acestor autoare selectate din output-ul modelării de subiecte. 
+	
+	Titlul traducerii mele în engleză a cărții s-a obținut prin localizarea expresiei “Thanks to Ovid” în ierarhiile statistice ale modelării de subiecte (pentru un fișier reunind toate textele input din întreg proiectul, “originalul”, Naum, Funkhouser, Drucker și toate celelalte autoare/artiste din “zaiafetul feminizării”) 
+	și preluarea a câte unui cuvânt (din fiecare subiect al modelului nostru) cel mai apropiat de respectiva expresie. 
+	Acestea s-au dovedit a fi “various” și “wanted”; după care am inclus și cuvintele cel mai puțin probabile în ambele subiecte modelate (aflate pe poziția 11036): 
+	“sequencing” din primul subiect și, din al doilea, nu l-am luat pe ultimul, “gentlemanly”, ci pe penultimul, românescul “nu-s”. 
+	Așadar, Various Wanted—[N]US Sequencing, iar în românește, Se caută diversuri — [NO]i secvențieri.
