@@ -2,7 +2,9 @@
 Transmedia poem commissioned by the New York Romanian Cultural Institute
 
 Margento 
+
 Two Walls and a Mirror
+
 —Poetics Statement— 
 
 The world of the pandemic has been a 2-dimensional one. Even our cubicles have been crushed flat by the lockdown. The only beyond was (is?) the digital one—interfaces and web-based algorithms—which worked in fact like a mirror. A mirror of our own discontent that every now and then seemed to work like a two-way mirror (and two-way screen) of ubiquitous control and surveillance. Yet what else is there for us to see besides the reflection of the two walls enclosing us and thus turning the mirror in its turn into a third hypnotizing wall? 
