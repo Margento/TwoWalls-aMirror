@@ -1,0 +1,42 @@
+Topic Modeling Hybridization
+
+— A note on Margento ’s computational translation 
+of Steve Rushton’s Thanks (to Ovid); with a note on form —
+
+
+
+
+
+This contribution to the project is informed by a fluent and at times fluid poetics that centers around fluctuation, contamination, and process. 
+I arrived at topic modeling as a best computational method for pinning down the various undercurrents in the poem’s development and for ‘translating’ it into both English and Romanian. 
+Each topic provides a rich pool of words alongside the probability of their occurrence in certain contexts, / while the flux of the poem makes the words within the same topic gravitate towards, and contaminate, each other. 
+	
+	A poem of exile and dislocation on so many levels needs a dislocation of its own in translation, 
+	and therefore — for the rendition of the first two sections of Thanks (to Ovid) — I doubled the amount / of text with an excerpt of the same number of words (roughly 7,000) from a forthcoming revised and enlarged edition of Athanor and Other Pohems 
+	by Gellu Naum (trans. Margento and Martin Woodside, Calypso-Editions, 2013). The resulting topic modeling lists thus displayed are a hybridized version of sections I and II of Rushton’s poem / and offer the opportunity to let his diction flow into, and be contaminated by, that of Naum ’s (in English translation). 
+	
+	As the poem advances, the potential replacements of, or alternative routes to, the poet’s words / printed as italicized satellites revolving around those particular words / are higher in probability and closer to the latter in the topic modeling output. 
+	
+	For medium-related reasons, I was able to do that for no more than three words per stanza, but am making the code available on GitHub (https://github.com/Margento/PoeTopMode) 
+	for anybody who’d like to do it further and/or apply it to other textual files/corpora as well. 
+	
+	For the third section of the poem — “III. First Discussion” ‘translated’ as “III. Sound Disruption” — 
+	I chose to hybridize the ‘original’ by tossing in Christopher Funkhouser’s contribution to the Interférences litteraires / literaire interferenties (http://interferences litteraires.be) / forthcoming special issue on “literature and/as (the) digital” / alongside Funkhouser’s poems featured in the anthology “US” Poets Foreign Poets (ed. Margento, Fractalia, 2018), for at least a couple of reasons. 
+	One, both authors are poets with a strong interest in, and work on, sound in cross-artform and intermedial contexts, 
+	as evident in the pieces fed to our algorithms in this section of the ‘translation.’ 
+	Two, both “III. First Discussion” and “Applying Poetic Media in the Digital Humanities” have a confessional / — at times even autobiographical — tone while / speaking of the above-mentioned interests and the authors’ diverse capacities (or even identities). 
+	And three, Funkhouser’s essay and poems combined mirrored in certain ways the dualism / (played as schizo, or rather quadro… ph®enia quadrophrenia) in the ‘original’ / involving, on the one hand, the critical - historical (and translational) side of things, and, / on the other, poetic and artistic creativity.
+
+	The fourth section, “IV. Second Discussion,” now that I realized there were hardly any women poets, writers, or artists involved so far in this project, 
+	was rendered as “IV. Festive Feminization.” The hybridization of the ‘original’ involved quite a number of texts / (poems, essays, academic articles, lyrics) (co)authored, translated, initiated / (as in, inspiring writing-throughs or fed to automatic text processors), posted in social media, and/or performed by women authors/artists. 
+	The pieces range here from Johanna Drucker’s essay “Writing like a Machine or Becoming an Algorithmic Subject” / and her poem “EcoLaLia: UnNatural Selection: Procedurally Driven” to poems contributed by 
+	Lyn Hejinian, Alice Notley, Harryette Mullen, Rita Dove, Maria Mencia, Jennifer Scappettone, Page Hill Starzinger, and Rachel Galvin to “US” Poets Foreign Poets / to a peer-reviewed journal article on rock lyrics translation by Raluca Tanasescu 
+	to lyrics by Joni Mitchell to one of guitarist Gretchen Menn’s viral Facebook posts to more poems by Sharon Olds and Joanne Dominique Dwyer… 
+	(see a full list of authors and titles in the “Contributors’ Notes” section; the files and/or links have also been made available on the project’s GitHub page). 
+	
+	As a result, the ‘original’ is gradually mixed with (or rather inundated by), then erased by, and finally visually buried in, samples / from all those authors selected from the topic modeling code’s output.
+The title of my English translation was obtained by locating the phrase “Thanks to Ovid” / in the topic modeling statistical hierarchies  and picking the closest two words to it (in the the two topics of our model). 
+These turned out to be “various” and “wanted” 
+and then I also included the two least probable words in the two topics (on the 11036th position), /  “sequencing” in the first topic, and, from the second, actually not the last, “gentlemanly,” but the penultimate, the Romanian “nu-s.” 
+Therefore, Various Wanted — [N]US Sequencing, and, in Romanian, Se caută diversuri — [NO]i secvențieri.
+(of a file consolidating all input texts throughout the project, the ‘original,’ Naum, Funkhouser, Drucker, and all the other “festive feminization” authors and artists)
