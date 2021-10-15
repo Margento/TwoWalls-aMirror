@@ -1,0 +1,17 @@
+Note on Form
+
+As the original is informed by a(n irregular) four-beat meter / — at times congealing into trochaic, at others into iambic tetrameter — 
+I took the opportunity to pick up where I left off when practicing syllabics in România cu amănuntul (Romania by Retail, Vinea 2008) 
+as a transition from the then dominant free-verse prosody in Romanian verse to irregular accentual-syllabic meters 
+(consequently adopted afterwards in the bilingual, English and Romanian, Nomadosofia / Nomadosophy, Max Blecher 2012). 
+Here I moved on to accentual verse (4 strong stresses per line) in both my English and Romanian translation / (arguably for the first time consistently in contemporary literature in Romanian, / but with a lineage going as far back as the 1600s when, as argued in a previous publication, / Dosoftei wrote his syllabics with an underlying accentual pattern), 
+which helped to get Rushton’s “rock ’n’ roll beat” across without getting stuck in the usually larger Romanian syllabic quantities.
+Speaking of rock prosody, while the author develops a Bo-Didley-inspired Hopkins-style theory and practice of rhythm, 
+for my part I chose to go with Zep and Zappa. 
+From the former, I borrowed Jimmy Page’s concept of the “alchemy of the band” / involving the multiple rhythms and energies clashing as the artists play (that is, fool) around, releasing, checking, releasing them again… 
+From the latter, the notion of “anything, anytime, anywhere” / and the politically charged manifold ways of tapping into traditional avant-gardes and absurdist theater. 
+This allowed me to adopt Gretchen Menn’s approach to (translation as) classic (rock) covers, / faithful and transgressive at the same time, and to work with language(s) / as translational and multilingual in, and of, themselves. 
+Multilayered lines within reticular stanzas thus made up a cross-lingual complex / system, dynamic, and therefore “precarious" and “on the edge of chaos.”
+(in Raluca Tanasescu’s chaos-theory-inspired translation studies & digital humanities terms) 
+Cross-lingual here includes programming languages and coding scripts as well, / and the ways in which they occasioned the emergence of a computational prosody / behind some of the formal features of this translation. 
+While for the first two sections I ran the topic modeling algorithm on words, / for the third one I included phrases as well, / and for the fourth whole lines and, towards the end, couples of stanzas, / thus playing with rhythms ranging from syllable and word-based to intra/inter-linear and multi-stanzaic.
