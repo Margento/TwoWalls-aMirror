@@ -1,7 +1,7 @@
 # TwoWalls&aMirror
 Transmedia poem commissioned by New York Romanian Cultural Institute (ICR NY). 
 
-[If you want to run the code in the Python (.py) scripts--the same as the one in the Jupyter Notebooks which also include the outputs--organize your folders the way they are in this repo and also save and extract the FastText word embeddings for the languages you need (choose the text-format files at https://fasttext.cc/docs/en/crawl-vectors.html) into the root one ("/fastText_multilingual-master/" in this particular case).] 
+[If you want to run the code in the Python (.py) scripts--which is in fact the same as the one in the Jupyter Notebooks, it is just that the latter also include the outputs--organize your folders the way they are in this repo and also save and extract the FastText word embeddings for the languages you need (choose the text-format files at https://fasttext.cc/docs/en/crawl-vectors.html) into the root one ("/fastText_multilingual-master/" in this particular case).] 
 
 
 
