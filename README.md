@@ -1,5 +1,5 @@
 # TwoWalls&aMirror
-Transmedia poem commissioned by New York Romanian Cultural Institute (ICR NY), video to be released on Oct 19th 2021, 2 pm NYC time, on the institue's Facebook page [Update: Made available here https://bit.ly/30Is5Fd].  
+Transmedia poem commissioned by New York Romanian Cultural Institute (ICR NY), video to be released on Oct 19th 2021, 2 pm NYC time, on the institue's Facebook page [Update: Released and made available here https://bit.ly/30Is5Fd].  
 
 #PathFinding #Multilingual #CorpusAlternating #VectorProsody #GraphPoem
 
